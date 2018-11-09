@@ -1,0 +1,5 @@
+abeille:12
+chien:4
+carotte:32
+Lamentin:3
+caniche:25
